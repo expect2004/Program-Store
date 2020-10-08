@@ -7,3 +7,8 @@ Explain :
  - CF stands for [Codeforces](codeforces.com)
  - UVA stands for UVa Online Judge
  - NK stands for [Nowcoder](https://ac.nowcoder.com/acm/home)
+
+
+# Difficult Or Great Problem
+
+CF598E Chocolate Bar
